@@ -1,0 +1,53 @@
+{
+	"__": {
+		"stream": {
+			"$id": "product-categories-kaspaslisting",
+			"destination": "pages",
+			"fields": [
+				"id",
+				"uid",
+				"meta",
+				"name",
+				"slug",
+				"c_menuItems.name",
+				"c_menuItems.slug"
+			],
+			"filter": {
+				"entityTypes": [
+					"ce_menu_type"
+				]
+			},
+			"localization": {
+				"locales": [
+					"en"
+				]
+			},
+			"source": "knowledgeGraph"
+		},
+		"urlFormat": "{{slug}}"
+	},
+	"_repo": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"businessId": 0,
+	"c_menuItems": [],
+	"global": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"id": "kaspas-menutype-wafles",
+	"key": "0:kaspas_menu_listing.hbs:knowledgeGraph:34467588:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_menu_type",
+			"uid": 106926
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-03-09T13:26:22Z"
+	},
+	"name": "WAFFLES \u0026 CREPES",
+	"siteAttributes": {},
+	"siteId": 0,
+	"slug": "kaspas-menutype-wafles",
+	"uid": 34467588
+}

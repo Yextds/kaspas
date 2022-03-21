@@ -1,0 +1,65 @@
+{
+	"__": {
+		"stream": {
+			"$id": "items_details",
+			"destination": "pages",
+			"fields": [
+				"id",
+				"uid",
+				"meta",
+				"name",
+				"slug",
+				"description",
+				"c_price2"
+			],
+			"filter": {
+				"entityTypes": [
+					"ce_kaspasMenuItems"
+				]
+			},
+			"localization": {
+				"locales": [
+					"en"
+				]
+			},
+			"source": "knowledgeGraph"
+		},
+		"urlFormat": "{{slug}}"
+	},
+	"_repo": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"businessId": 0,
+	"c_price2": {
+		"large": {
+			"currencyCode": "GBP"
+		},
+		"reg": {
+			"currencyCode": "GBP"
+		},
+		"wITHASIDE": {
+			"currencyCode": "GBP",
+			"value": "7.95"
+		}
+	},
+	"description": "Banana, coconut and mango gelato with kiwi, strawberry and pineapple fruit slices, topped off with whipped cream and an appetizing blend of kiwi and peach syrup.",
+	"global": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"id": "tropical-paradise",
+	"key": "0:item_details.hbs:knowledgeGraph:34800405:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_kaspasMenuItems",
+			"uid": 107387
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-03-21T08:40:27Z"
+	},
+	"name": "Tropical Paradise",
+	"siteAttributes": {},
+	"siteId": 0,
+	"slug": "tropical-paradise",
+	"uid": 34800405
+}

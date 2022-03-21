@@ -1,0 +1,66 @@
+{
+	"__": {
+		"stream": {
+			"$id": "items_details",
+			"destination": "pages",
+			"fields": [
+				"id",
+				"uid",
+				"meta",
+				"name",
+				"slug",
+				"description",
+				"c_price2"
+			],
+			"filter": {
+				"entityTypes": [
+					"ce_kaspasMenuItems"
+				]
+			},
+			"localization": {
+				"locales": [
+					"en"
+				]
+			},
+			"source": "knowledgeGraph"
+		},
+		"urlFormat": "{{slug}}"
+	},
+	"_repo": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"businessId": 0,
+	"c_price2": {
+		"large": {
+			"currencyCode": "GBP",
+			"value": "4.50"
+		},
+		"reg": {
+			"currencyCode": "GBP",
+			"value": "3.95"
+		},
+		"wITHASIDE": {
+			"currencyCode": "GBP"
+		}
+	},
+	"description": "Mango \u0026 Passion Fruit | Kiwi | Strawberry \u0026 Peach | Berry Lemonade | Blue Bubblegum | Pineapple \u0026 Passion Fruit | Strawberry Mint | Exotic | Raspberry \u0026 Blackcurrant",
+	"global": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"id": "bubble-slush",
+	"key": "0:item_details.hbs:knowledgeGraph:34800412:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_kaspasMenuItems",
+			"uid": 107387
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-03-21T08:39:30Z"
+	},
+	"name": "Bubble Slush",
+	"siteAttributes": {},
+	"siteId": 0,
+	"slug": "bubble-slush",
+	"uid": 34800412
+}

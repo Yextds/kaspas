@@ -1,0 +1,66 @@
+{
+	"__": {
+		"stream": {
+			"$id": "items_details",
+			"destination": "pages",
+			"fields": [
+				"id",
+				"uid",
+				"meta",
+				"name",
+				"slug",
+				"description",
+				"c_price2"
+			],
+			"filter": {
+				"entityTypes": [
+					"ce_kaspasMenuItems"
+				]
+			},
+			"localization": {
+				"locales": [
+					"en"
+				]
+			},
+			"source": "knowledgeGraph"
+		},
+		"urlFormat": "{{slug}}"
+	},
+	"_repo": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"businessId": 0,
+	"c_price2": {
+		"large": {
+			"currencyCode": "GBP",
+			"value": "7.52"
+		},
+		"reg": {
+			"currencyCode": "GBP",
+			"value": "7.52"
+		},
+		"wITHASIDE": {
+			"currencyCode": "GBP",
+			"value": "7.52"
+		}
+	},
+	"global": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"id": "cafe-latte",
+	"key": "0:item_details.hbs:knowledgeGraph:34800410:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_kaspasMenuItems",
+			"uid": 107387
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-03-21T07:26:37Z"
+	},
+	"name": "Cafe Latte",
+	"siteAttributes": {},
+	"siteId": 0,
+	"slug": "cafe-latte",
+	"uid": 34800410
+}

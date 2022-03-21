@@ -1,0 +1,66 @@
+{
+	"__": {
+		"stream": {
+			"$id": "items_details",
+			"destination": "pages",
+			"fields": [
+				"id",
+				"uid",
+				"meta",
+				"name",
+				"slug",
+				"description",
+				"c_price2"
+			],
+			"filter": {
+				"entityTypes": [
+					"ce_kaspasMenuItems"
+				]
+			},
+			"localization": {
+				"locales": [
+					"en"
+				]
+			},
+			"source": "knowledgeGraph"
+		},
+		"urlFormat": "{{slug}}"
+	},
+	"_repo": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"businessId": 0,
+	"c_price2": {
+		"large": {
+			"currencyCode": "GBP",
+			"value": "4.50"
+		},
+		"reg": {
+			"currencyCode": "GBP",
+			"value": "3.95"
+		},
+		"wITHASIDE": {
+			"currencyCode": "GBP"
+		}
+	},
+	"description": "Lychee | Strawberry | Blueberry | Mango | Lemon \u0026 Lime | Passion Fruit",
+	"global": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"id": "topping-juice-ball",
+	"key": "0:item_details.hbs:knowledgeGraph:34800411:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_kaspasMenuItems",
+			"uid": 107387
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-03-21T07:25:19Z"
+	},
+	"name": "Topping: Juice Ball",
+	"siteAttributes": {},
+	"siteId": 0,
+	"slug": "topping-juice-ball",
+	"uid": 34800411
+}

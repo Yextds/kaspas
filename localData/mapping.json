@@ -1,0 +1,29 @@
+{
+	"cog-internal-feature-static-file-generation-about.hbs": [
+		"cog-internal-feature-static-file-generation-about.hbs__cfcd208495d565ef66e7dff9f98764da.json"
+	],
+	"cog-internal-feature-static-file-generation-index.hbs": [
+		"cog-internal-feature-static-file-generation-index.hbs__cfcd208495d565ef66e7dff9f98764da.json"
+	],
+	"item_details.hbs": [
+		"items_details__2d21006388fb42bde75d2cf5704a6c15.json",
+		"items_details__adcfe894c3611318f865fce1eb32668c.json",
+		"items_details__716357dde16f0801c6648e1d6037db6e.json",
+		"items_details__4a9dee8478b05e0a44d868f1e9aa19e4.json",
+		"items_details__3525de91087670b5081919d60d1cf918.json",
+		"items_details__3405306905ee8b6a419ac0628f196d19.json",
+		"items_details__84f8f2f2c44ba1940f85da1c32e3e685.json",
+		"items_details__5fda5cbb3d75d83fac50427e775ab318.json"
+	],
+	"kaspas_menu_listing.hbs": [
+		"product-categories-kaspaslisting__8aa9f517e0eb3e90f3b938db8f901cde.json",
+		"product-categories-kaspaslisting__6a89e2fdba03e210a24db9feed1c2813.json",
+		"product-categories-kaspaslisting__3ad2f32a878eb63a9f13ededd51ae2a6.json",
+		"product-categories-kaspaslisting__fb26ff0d1239826e871e75ddc7cd5ac9.json",
+		"product-categories-kaspaslisting__87a896dbc5421885851bae219e15fe34.json",
+		"product-categories-kaspaslisting__b776d2e0884d6d07ebe554c15303ec2c.json"
+	],
+	"menuListing.hbs": [
+		"menu-listing-product-categories__4536d0fd2712651a766031ebbecdcd93.json"
+	]
+}

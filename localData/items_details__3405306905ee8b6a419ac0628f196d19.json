@@ -1,0 +1,65 @@
+{
+	"__": {
+		"stream": {
+			"$id": "items_details",
+			"destination": "pages",
+			"fields": [
+				"id",
+				"uid",
+				"meta",
+				"name",
+				"slug",
+				"description",
+				"c_price2"
+			],
+			"filter": {
+				"entityTypes": [
+					"ce_kaspasMenuItems"
+				]
+			},
+			"localization": {
+				"locales": [
+					"en"
+				]
+			},
+			"source": "knowledgeGraph"
+		},
+		"urlFormat": "{{slug}}"
+	},
+	"_repo": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"businessId": 0,
+	"c_price2": {
+		"large": {
+			"currencyCode": "GBP"
+		},
+		"reg": {
+			"currencyCode": "GBP"
+		},
+		"wITHASIDE": {
+			"currencyCode": "GBP",
+			"value": "6.50"
+		}
+	},
+	"description": "Fresh waffle served with banana slices and drizzled with our delightful luxury toffee sauce.",
+	"global": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"id": "banoffee-waffle",
+	"key": "0:item_details.hbs:knowledgeGraph:34800406:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_kaspasMenuItems",
+			"uid": 107387
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-03-21T08:39:45Z"
+	},
+	"name": "Banoffee Waffle",
+	"siteAttributes": {},
+	"siteId": 0,
+	"slug": "banoffee-waffle",
+	"uid": 34800406
+}

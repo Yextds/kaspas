@@ -1,0 +1,19 @@
+{
+	"__": {
+		"urlFormat": "index.html"
+	},
+	"_repo": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"businessId": 0,
+	"global": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"key": "0:cog-internal-feature-static-file-generation-index.hbs:knowledgeGraph:0:en",
+	"locale": "en",
+	"meta": {
+		"locale": "en"
+	},
+	"siteAttributes": {},
+	"siteId": 0
+}

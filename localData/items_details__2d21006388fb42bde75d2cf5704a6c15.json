@@ -1,0 +1,67 @@
+{
+	"__": {
+		"stream": {
+			"$id": "items_details",
+			"destination": "pages",
+			"fields": [
+				"id",
+				"uid",
+				"meta",
+				"name",
+				"slug",
+				"description",
+				"c_price2"
+			],
+			"filter": {
+				"entityTypes": [
+					"ce_kaspasMenuItems"
+				]
+			},
+			"localization": {
+				"locales": [
+					"en"
+				]
+			},
+			"source": "knowledgeGraph"
+		},
+		"urlFormat": "{{slug}}"
+	},
+	"_repo": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"businessId": 0,
+	"c_price2": {
+		"large": {
+			"currencyCode": "GBP",
+			"value": "7.49"
+		},
+		"reg": {
+			"currencyCode": "GBP",
+			"value": "7.49"
+		},
+		"wITHASIDE": {
+			"currencyCode": "GBP",
+			"value": "7.49"
+		}
+	},
+	"description": "A rich sponge soaked in hot toffee and butterscotch sauce. Served with fresh vanilla ice cream, whipped cream or custard",
+	"global": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"id": "luxury-sticky-toffee-pudding",
+	"key": "0:item_details.hbs:knowledgeGraph:34800409:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_kaspasMenuItems",
+			"uid": 107387
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-03-21T07:25:43Z"
+	},
+	"name": "Luxury Sticky Toffee Pudding",
+	"siteAttributes": {},
+	"siteId": 0,
+	"slug": "luxury-sticky-toffee-pudding",
+	"uid": 34800409
+}

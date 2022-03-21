@@ -1,0 +1,78 @@
+{
+	"__": {
+		"stream": {
+			"$id": "menu-listing-product-categories",
+			"destination": "pages",
+			"fields": [
+				"id",
+				"uid",
+				"meta",
+				"name",
+				"slug",
+				"c_menuItems.name",
+				"c_menuItems.slug"
+			],
+			"filter": {
+				"entityTypes": [
+					"ce_menuTypeCategory"
+				]
+			},
+			"localization": {
+				"locales": [
+					"en"
+				]
+			},
+			"source": "knowledgeGraph"
+		},
+		"urlFormat": "{{slug}}"
+	},
+	"_repo": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"businessId": 0,
+	"c_menuItems": [
+		{
+			"name": "BUBBLE MANIA",
+			"slug": "kaspas-menutype-bubblemania"
+		},
+		{
+			"name": "CAKES \u0026 PUDDINGS",
+			"slug": "kaspas-menutype-cakes-puddings"
+		},
+		{
+			"name": "HOT DRINKS",
+			"slug": "kaspas-menutype-hot-drinks"
+		},
+		{
+			"name": "FRAPPES",
+			"slug": "kaspas-menutype-frappes"
+		},
+		{
+			"name": "WAFFLES \u0026 CREPES",
+			"slug": "kaspas-menutype-wafles"
+		},
+		{
+			"name": "MILKSHAKES \u0026 SMOOTHIES",
+			"slug": "kaspas-menutype-milkshakes-and-smoothies"
+		}
+	],
+	"global": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"id": "menu_category_listing",
+	"key": "0:menuListing.hbs:knowledgeGraph:35221074:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_menuTypeCategory",
+			"uid": 108960
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-03-21T06:44:51Z"
+	},
+	"name": "Menu Types Category",
+	"siteAttributes": {},
+	"siteId": 0,
+	"slug": "menu_category_listing.html",
+	"uid": 35221074
+}

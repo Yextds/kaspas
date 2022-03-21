@@ -1,0 +1,62 @@
+{
+	"__": {
+		"stream": {
+			"$id": "product-categories-kaspaslisting",
+			"destination": "pages",
+			"fields": [
+				"id",
+				"uid",
+				"meta",
+				"name",
+				"slug",
+				"c_menuItems.name",
+				"c_menuItems.slug"
+			],
+			"filter": {
+				"entityTypes": [
+					"ce_menu_type"
+				]
+			},
+			"localization": {
+				"locales": [
+					"en"
+				]
+			},
+			"source": "knowledgeGraph"
+		},
+		"urlFormat": "{{slug}}"
+	},
+	"_repo": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"businessId": 0,
+	"c_menuItems": [
+		{
+			"name": "Cafe Latte With Syrup",
+			"slug": "cafe-latte-with-syrup"
+		},
+		{
+			"name": "Cafe Latte",
+			"slug": "cafe-latte"
+		}
+	],
+	"global": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"id": "kaspas-menutype-hot-drinks",
+	"key": "0:kaspas_menu_listing.hbs:knowledgeGraph:34467589:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_menu_type",
+			"uid": 106926
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-03-11T10:32:59Z"
+	},
+	"name": "HOT DRINKS",
+	"siteAttributes": {},
+	"siteId": 0,
+	"slug": "kaspas-menutype-hot-drinks",
+	"uid": 34467589
+}

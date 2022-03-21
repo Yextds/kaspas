@@ -1,0 +1,62 @@
+{
+	"__": {
+		"stream": {
+			"$id": "product-categories-kaspaslisting",
+			"destination": "pages",
+			"fields": [
+				"id",
+				"uid",
+				"meta",
+				"name",
+				"slug",
+				"c_menuItems.name",
+				"c_menuItems.slug"
+			],
+			"filter": {
+				"entityTypes": [
+					"ce_menu_type"
+				]
+			},
+			"localization": {
+				"locales": [
+					"en"
+				]
+			},
+			"source": "knowledgeGraph"
+		},
+		"urlFormat": "{{slug}}"
+	},
+	"_repo": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"businessId": 0,
+	"c_menuItems": [
+		{
+			"name": "Luxury Sticky Toffee Pudding",
+			"slug": "luxury-sticky-toffee-pudding"
+		},
+		{
+			"name": "Golden Salted Caramel Tart",
+			"slug": "golden-salted-caramel-tart"
+		}
+	],
+	"global": {
+		"name": "Yext's Fashion Warehouse"
+	},
+	"id": "kaspas-menutype-cakes-puddings",
+	"key": "0:kaspas_menu_listing.hbs:knowledgeGraph:34467586:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_menu_type",
+			"uid": 106926
+		},
+		"locale": "en",
+		"updateTimestamp": "2022-03-11T10:31:42Z"
+	},
+	"name": "CAKES \u0026 PUDDINGS",
+	"siteAttributes": {},
+	"siteId": 0,
+	"slug": "kaspas-menutype-cakes-puddings",
+	"uid": 34467586
+}
